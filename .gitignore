@@ -1,3 +1,5 @@
 usa/
 russia/
 *.csv
+.env
+*[0-9]/
